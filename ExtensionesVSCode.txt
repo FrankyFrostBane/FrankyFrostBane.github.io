@@ -1,0 +1,44 @@
+xauto close tag
+xauto complete tag
+xauto import
+xauto rename tag
+xautodocstring - python docstring generator
+xbabel javascript
+xchrome extension developer tools
+xcolor highlight
+xcolor picker
+xcolor the tag name タグに色つけ太郎
+xdev containers
+xdjango
+xgit extension pack
+xgit graph
+xgit history
+xgitignore
+xgitlens - git supercharged
+xhtml boilerplate
+xhtml css support
+xhtml format
+xhtml preview
+xindent rainbow
+xintellicode
+xintellicode api usage examples
+xintellisense for css class names in html
+xjavascript es6 code snippets
+xjavascript and typescript nightly
+xjavascript snippet pack
+xjinja
+xlive server
+xoutput colorizer
+xpath autocomplete
+xpath intellisense
+xphp debug
+xprettier - code formatter
+xproject manager
+xpylance
+xpython
+xpython debugger
+xpython enviroment manager
+xpython extension pack
+xpython indent
+xspanish language pack for visual studio code
+xvscode-icons

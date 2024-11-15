@@ -1,0 +1,16 @@
+*{box-sizing: border-box;}
+a{text-decoration: none;
+    color: skyblue;
+}
+li{text-decoration: none;
+    list-style: none;
+    font-size: xx-large;
+    padding: 5px;
+}
+ul{text-decoration: none;}
+body{background-color: darkslategray;
+}
+
+h1{color: rgb(2, 2, 36);}
+
+h2{font-size: xx-large;}

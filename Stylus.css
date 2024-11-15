@@ -1,0 +1,11 @@
+*{box-sizing: border-box;}
+
+.bck{background-color: rgb(1, 39, 1);}
+
+ul{list-style-type: none;}
+
+ul a{color: skyblue;
+    text-decoration: none;
+}
+
+ul a:hover{color: chartreuse;}

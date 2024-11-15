@@ -1,0 +1,126 @@
+.background{background-color: rgb(26, 25, 25);
+    width: auto;
+}
+
+.imgheader{height: 270px;
+    width: auto;
+}
+
+.divisor{flex-direction: row;
+    width: auto;
+    border: solid 5px darkmagenta;
+}
+
+a{color: rgb(128, 124, 124); 
+    text-decoration: none;}
+
+a:hover{color: rgb(161, 91, 50);}
+
+.menu{display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    height: 5px;
+    width: auto;
+    font-size: x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    list-style-type: none;
+}
+
+.gridinicio1{display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr;
+    grid-template-areas: "txt img";
+}
+
+.imgpres{grid-area: img;}
+
+.txtpres{font-size: 150%;
+    color: rgb(238, 237, 237);
+    grid-area: txt;}
+
+
+.letrachica{font-size: 68%;
+    color: rgb(238, 237, 237);
+}
+
+.gridinicioproducts{display: grid;
+    grid-template-columns: auto;
+    grid-template-areas: "txtpr pr1 pr2 pr3 pr4 tpr1 tpr2 tpr3 tpr4";
+}
+
+.txtpr{grid-column: 1 / span 4;
+    grid-row: 1;
+    border: solid red;
+}
+
+.pr1{grid-row: 2;
+    height: 500px;
+    border: solid darkslategray;
+}
+
+.pr2{grid-row: 2;
+    height: 500px;
+    border: solid darkslategray;
+}
+
+.pr3{grid-row: 2;
+    height: 500px;
+    border: solid darkslategray;
+}
+
+.pr4{grid-row: 2;
+    height: 500px;
+    border: solid darkslategray;
+}
+
+.tpr1{grid-row: 3;
+    border: solid darkslategray;
+}
+
+.tpr2{grid-row: 3;
+    border: solid darkslategray;
+}
+
+.tpr3{grid-row: 3;
+    border: solid darkslategray;
+}
+
+.tpr4{grid-row: 3;
+    border: solid darkslategray;
+}
+
+.letranormal{font-size: 150%;
+    color: rgb(238, 237, 237)
+}
+
+.letrapr{font-size: 100%;
+    color: rgb(255, 240, 240);
+    text-align: center;
+    font-weight: 1000;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.menu2{display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 100px;
+    align-content: center;
+    align-items: center;
+    height: 5px;
+    list-style-type: none;
+}
+
+button{border-radius: 50%;
+    row-gap: 50px;
+    height: 30px;
+    width: 30px;
+    box-shadow: 0 3px rgb(77, 122, 139);
+    cursor: pointer;
+}
+
+button:active{box-shadow: 0 1px rgb(138, 210, 238);
+    transform: translateY(1px);
+}
