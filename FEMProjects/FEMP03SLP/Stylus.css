@@ -61,8 +61,7 @@ body{background-color: var(--c5);
     width: 590px;
 }
 
-.img{padding-top: 35px;
-    background-color: aqa;}
+.img{padding-top: 35px;}
 
 .img img{border-radius: 65%;}
 
