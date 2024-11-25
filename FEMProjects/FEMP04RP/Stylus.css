@@ -2,6 +2,12 @@
 
 body{background-color: rgb(36, 35, 35);}
 
+p{color: aliceblue;}
+
+li{color: aliceblue;}
+
+td{color: aliceblue;}
+
 .attribution { font-size: 11px; text-align: center; }
 
 .attribution a { color: hsl(228, 45%, 44%); }
@@ -21,5 +27,4 @@ body{background-color: rgb(36, 35, 35);}
     height: 212px;
 }
 
-.img img{max-width: 500px;
-}
+.img img{max-width: 500px;}
