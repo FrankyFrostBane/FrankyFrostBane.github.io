@@ -50,11 +50,11 @@ body{background-color: var(--c5);
 }
 
 .img{display: flex;
-    width: 510px;
+    width: 500px;
     height: 212px;
 }
 
-.img img{max-width: 510px;}
+.img img{max-width: 500px;}
 
 p{color: var(--c4);
     font-family: var(--f2);
