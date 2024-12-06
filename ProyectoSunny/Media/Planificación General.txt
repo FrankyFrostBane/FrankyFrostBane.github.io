@@ -1,0 +1,47 @@
+Menu - Inicio
+     - Plano de Sueños
+     - Mundo Despierto
+     - Paquete diferido? Servicios Adicionales?
+     - Sobre Nosotros
+     - FAQ
+
+- Inicio:
+
+- Presentación de la página y de qué se trata
+- Presentación a grandes rasgos de los productos y servicios
+- Publicidad
+- Pie de página
+
+
+- Plano de Sueños:
+
+- Presentación del Plano de Sueños (Explicar lo que es)
+- Productos relacionados
+- Publicidad
+- Pie de página
+
+
+- Mundo Despierto:
+
+- Presentación del Mundo Despierto (En este caso sobre por qué viajar en él)
+- Productos relacionados
+- Publicidad
+- Pie de página
+
+
+- Servicios Adicionales:
+
+
+
+- Sobre Nosotros:
+
+- Presentación de la empresa, su CEO y el Fundador
+- Publicidad
+- Pie de página
+
+
+- FAQ:
+
+- Lista de preguntas Frecuentes
+- Publicidad
+- Pie de página
